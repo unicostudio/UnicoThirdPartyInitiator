@@ -1,0 +1,16 @@
+{
+  "name": "com.unicostudio.thirdpartyinitiator",
+  "displayName": "UnicoStudio ThirdPartyInitiator",
+  "version": "1.0.0-preview.1",
+  "documentationUrl": "https://github.com/unicostudio/UnicoThirdPartyInitiator/blob/main/README.md",
+  "changelogUrl": "https://github.com/unicostudio/UnicoThirdPartyInitiator/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/unicostudio/UnicoThirdPartyInitiator/blob/main/LICENSE",
+  "description": "A robust, extensible third-party SDK initialization system for Unity that handles prioritization, dependencies, delays, and async initialization without blocking the main thread.",
+  "samples": [
+    {
+      "displayName": "SDK Initialization Examples",
+      "description": "Sample implementations demonstrating both configuration-based and MonoBehaviour-based SDK initialization patterns, with examples of hard/soft dependencies, conditional initialization, and proper async handling.",
+      "path": "Samples~/BasicUsageExample"
+    }
+  ]
+}
